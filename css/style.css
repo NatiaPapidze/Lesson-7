@@ -1,0 +1,39 @@
+.div-section{
+    width: 1197px;
+    height: 1226px;
+    background-color: thistle;
+    margin: 0 auto;
+}
+.div-box{
+    width: 370px;
+    height: 451px;
+    background-color: tomato;
+    text-align: center;
+  
+
+}
+.line1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.line2{
+    display: flex;
+    justify-content: space-between;
+}
+.div-text{
+    width: 712px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.readmore{
+    width: 131px;
+    height: 45px;
+    background-color: white;
+    border-radius: 24px;
+    margin: 0 auto;
+    
+}
