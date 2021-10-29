@@ -1,7 +1,9 @@
+
+/* section 2 style */
 .div-section{
     width: 1197px;
     height: 1226px;
-    background-color: thistle;
+    background-color: #FBFCFD;
     margin: 0 auto;
 }
 .div-box{
@@ -9,9 +11,12 @@
     height: 451px;
     background-color: tomato;
     text-align: center;
-  
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
+
 .line1{
     display: flex;
     justify-content: space-between;
@@ -34,6 +39,26 @@
     height: 45px;
     background-color: white;
     border-radius: 24px;
-    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
+}
+.orange{
+    background-color: #FBBA77;
+}
+.ligtblue{
+    background-color: #41EAE3;
+}
+.purple{
+    background-color: #69529F;
+}
+.blue{
+    background-color: #4386D2;
+}
+.violet{
+    background-color: #A5A2F6;
+}
+.red{
+    background-color: #FF8088;
 }
