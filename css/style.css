@@ -8,6 +8,7 @@
 .header-div{
     display: inline-block;
     margin-bottom: 200px;
+    flex-wrap: wrap;
     
    
 }
@@ -29,6 +30,11 @@
     margin: 0 auto;
     
 }
+.section1-div{
+    max-width: 636px;
+    width: 100%;
+    flex-wrap: wrap;
+}
 .hand{
     max-width: 263px;
     width: 100%;
@@ -41,7 +47,9 @@
     align-items: center;
     margin-top: 83px;
     margin-bottom: 276px;
+ 
 }
+
 .section1-div h2{
     color: #534D4D;
     font-size: 78px;
@@ -60,7 +68,7 @@
 }
 
 .img{
-    max-width: 801px;
+
     width: 100%;
 }
 /* section-2 style */
